@@ -1,0 +1,16 @@
+{
+    "name": "veloccer/meucarronovoAPI",
+    "description": "The Website of meucarronovoAPI Ltda, is intended to disclose advertisements, surveys, as well as any information and news relating to motor car. This application allows you to make requests in icarros and use many resources, like: leads, inventory, create forms in your application, new ads registration in meucarronovoAPI account.",
+    "authors": [
+        {
+            "name": "Hagamenon Oliveira",
+            "email": "haganicolau@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+       "psr-4": {
+           "meucarronovoAPI\\": "src"
+       }
+   }
+}
